@@ -48,5 +48,4 @@ h[:three] = 3 # Adicione um novo par chave/valor ao hash
 h.each do |key, value| # Itera através dos pares chave/valor
   print "#{value}:#{key}; " # Note as variáveis substituídas na string
 end # Imprime "1:one; 2:two; 3:three; "
-
 =end
