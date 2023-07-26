@@ -6,7 +6,7 @@ de um metodo. Os blocos sao definidos por uma unica linha entre chaves
 (0) ou varias linhas entre as palavras-chaves 'do' e 'end' os blocos podem receber 
 parametros, que sao definidos por pipes(|)
 =end
-puts("hello world")
+puts("hello world")#d
 #------------------------------------------------------------------------------------
 3.times do
     puts "Hello, world!"
