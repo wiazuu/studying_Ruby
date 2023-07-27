@@ -2,7 +2,7 @@
 nome = "Lucas"
 
 
-print nome.eql?("Lucas") ? " dono do repositorio " : " Visita "
+puts nome.eql?("Lucas") ? " dono do repositorio " : " Visita "
 # isso diminuirá esse codigo
 if nome == ("Lucas")
     puts (" dono do repositorio ")
